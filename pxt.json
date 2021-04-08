@@ -1,0 +1,20 @@
+{
+    "name": "roro",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "devices": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
